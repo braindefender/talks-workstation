@@ -1,6 +1,17 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Talks / Workstation
 
-To start the slide show:
+Презентация о моей рабочей станции
+
+В ней я рассказываю про:
+- Задачи, которые должна решать рабочая станция веб-разработчика
+- Небольшое сравнение ОС Linux/Windows/macOS
+- Системы виртуализации, NixOS, ZFS и многое другое...
+
+Была рассказана:
+- [2025-05-30] TE Smart Meetup
+- [2025-06-12] TE React Созвон
+
+## Dev
 
 - `pnpm install`
 - `pnpm dev`

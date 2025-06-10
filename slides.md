@@ -3,7 +3,7 @@
 theme: default
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: ./bg.jpg
+background: ./assets/bg.jpg
 # some information about your slides (markdown enabled)
 title: Setup
 # apply unocss classes to the current slide
@@ -234,7 +234,7 @@ Ubuntu? Linux Mint? Arch Linux? Что будет лучше?
 Всё, что я перечислил раньше — придётся делать заново.
 
 
-<img src="./typing.gif" style="width: 240px;" />
+<img src="./assets/typing.gif" style="width: 240px;" />
 
 Или делать бэкапы. Но, будем честны, кто всем этим занимается?
 
@@ -275,7 +275,7 @@ Ubuntu? Linux Mint? Arch Linux? Что будет лучше?
 
 <v-click>
 
-![](./nixos-generations.webp)
+![](./assets/nixos-generations.webp)
 
 </v-click>
 
@@ -324,7 +324,7 @@ Ubuntu? Linux Mint? Arch Linux? Что будет лучше?
 
 <v-click>
 
-![](./nixos-options.png)
+![](./assets/nixos-options.png)
 
 </v-click>
 
@@ -349,7 +349,7 @@ Ubuntu? Linux Mint? Arch Linux? Что будет лучше?
 
 <v-click>
 
-![](./nixos-packages.png)
+![](./assets/nixos-packages.png)
 
 </v-click>
 
@@ -394,7 +394,7 @@ Ubuntu? Linux Mint? Arch Linux? Что будет лучше?
 
 Это корпоративная файловая система, разработанная Sun Microsystems. Обычно, она используется крутыми дядьками на крутых серверах, где много дисков, много данных, и надо как-то с этим работать.
 
-![](./zfs-snapshot.jpg)
+![](./assets/zfs-snapshot.jpg)
 
 </v-clicks>
 
@@ -586,7 +586,7 @@ Git-репозиторий для конфигурации системы и ZFS
 <!-- Поэтому, когда ко мне пришли наши сисадмины и спросили какая у меня ОС, мой ответ их удивил -->
 ---
 
-![](./attention.png)
+![](./assets/attention.png)
 
 <v-click>
 
@@ -611,7 +611,7 @@ Git-репозиторий для конфигурации системы и ZFS
 
 - Получаем около-нативный performance (ценой ~5% FPS из-за упора в vCPU)
 
-<img src="./hackerman-2.png" style="width: 350px;" />
+<img src="./assets/hackerman-2.jpg" style="width: 350px;" />
 
 </v-clicks>
 
@@ -627,7 +627,7 @@ Git-репозиторий для конфигурации системы и ZFS
 
 - Получаем headless-linux и две параллельно работающие ОС
 
-<img src="./hackerman.jpg" style="width: 250px;" />
+<img src="./assets/hackerman.jpg" style="width: 250px;" />
 
 </v-clicks>
 
